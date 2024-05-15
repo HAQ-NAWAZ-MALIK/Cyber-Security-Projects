@@ -31,8 +31,6 @@ This Wi-Fi Deauthentication Utility is a Bash script created for educational pur
 - The author is not responsible for any misuse of this tool leading to legal consequences.
 - Ensure compliance with applicable laws and obtain necessary permissions before using this tool.
 
-## Author
-Ezhil (@ezhil56x)
 
 ## License
 This Wi-Fi Deauthentication Utility is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
